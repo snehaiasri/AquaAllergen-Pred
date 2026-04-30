@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+*.log
+
+predicted_allergens/
+esm2_8M_model/
+*.mp4
