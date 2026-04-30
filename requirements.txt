@@ -1,9 +1,9 @@
 streamlit
-huggingface_hub
-transformers
-torch
-numpy
 pandas
-scikit-learn
+numpy
+scikit-learn==1.8.0
 joblib
-umap-learn
+torch
+transformers
+huggingface_hub
+safetensors
